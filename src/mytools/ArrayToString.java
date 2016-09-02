@@ -1,4 +1,4 @@
-package reader;
+package mytools;
 
 public class ArrayToString {
 	public static String toString(int[] a) {
