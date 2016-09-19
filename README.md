@@ -19,8 +19,3 @@
   7. **Submit** the final version.
 
 
-```python
-def function(a):
-  if a > 0:
-    return function(a-1)
-```
