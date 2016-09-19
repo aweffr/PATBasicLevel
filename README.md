@@ -17,3 +17,10 @@
   5. In each method, write a **println log** to tell myself what the **input&output** is and the final state of some **temp varibles**.
   6. **Test** by test() method.
   7. **Submit** the final version.
+
+
+```python
+def function(a):
+  if a > 0:
+    return function(a-1)
+```
